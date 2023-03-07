@@ -1,9 +1,10 @@
-h1{
+h2{
     font-size: 8em;
     color: blueviolet;
+    font-family: 'Bebas Neue', sans-serif;
 }
-h2{
-    font-family: "Bebas Neue";
+li{
+    font-family: 'Bebas Neue', sans-serif;
     color: aqua;
     font-size: 5em;
 }

@@ -1,7 +1,7 @@
-h2{
+h2 {
     font-size: 7em;
     color:red;
-    font-family: 'Cinzel';
+    font-family: 'Cinzel', sans-serif;
 }
 /* cinzel-700 - latin */
 @font-face {
