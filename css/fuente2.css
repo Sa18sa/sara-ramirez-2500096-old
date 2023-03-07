@@ -1,6 +1,11 @@
+h1{
+    font-size: 8em;
+    color: blueviolet;
+}
 h2{
-    color: rgb(207, 29, 219);
-    font-family: "Bebas Neue",sans-serif;
+    font-family: "Bebas Neue";
+    color: aqua;
+    font-size: 5em;
 }
 /* bebas-neue-regular - latin */
 @font-face {
