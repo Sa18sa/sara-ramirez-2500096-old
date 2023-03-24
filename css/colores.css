@@ -20,21 +20,13 @@ text-align: center;
 }
 .box-darkcyan {
     background-color: darkcyan;
-    width: 300px;
-    height: 300px;
-    margin: 20px;
+
 }
 .box-goldenrod {
     background-color: goldenrod;
-    width: 300px;
-    height: 300px;
-    margin: 20px;
 }
 .box-64-64-64 {
 background-color:rgb(64,64,64, .5);
-width: 300px;
-height: 300px;
-margin: 20px;
 }
 .box-32-32-32 {
     background-color:rgb(32-32-32);
