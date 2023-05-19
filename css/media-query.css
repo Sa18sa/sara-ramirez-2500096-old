@@ -49,7 +49,7 @@ a {
         position: fixed;
         width: 100%;
         left: -100%;
-        transition: left 1800ms;
+        transition: left 400ms;
       }
       .main-menu-block {
         list-style: none;
@@ -59,7 +59,7 @@ a {
         position: fixed;
         width: 100%;
         left: 0;
-        transition: left 1800ms;
+        transition: left 400ms;
       }
       .item-style {
         display: block;
