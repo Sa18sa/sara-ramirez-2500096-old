@@ -22,7 +22,6 @@
 .main-menu {
     text-align: right;
     list-style: none;
-
 }
 .item-style{
     padding: 20px 30px 28px 30px;
@@ -49,7 +48,7 @@ a {
         position: fixed;
         width: 100%;
         left: -100%;
-        transition: left 400ms;
+        transition: left 500ms;
       }
       .main-menu-block {
         list-style: none;
@@ -59,7 +58,7 @@ a {
         position: fixed;
         width: 100%;
         left: 0;
-        transition: left 400ms;
+        transition: left 500ms;
       }
       .item-style {
         display: block;
