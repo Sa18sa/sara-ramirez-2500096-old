@@ -1,0 +1,116 @@
+*{
+    font-family: sans-serif;
+}
+.box-1 {
+    display: flex;
+    flex-direction: column;
+}
+.box-2 {
+    display: flex;
+    flex-direction: row; 
+}
+.box-3 {
+    display: flex;
+    flex-wrap: wrap; 
+}
+.box-4{
+    display: flex;
+    flex-wrap: nowrap; 
+}
+.box-5{
+    display: flex;
+    flex-wrap: wrap; 
+    flex-direction: column;
+}
+.box-6{
+    display: flex;
+    justify-content: space-between;
+}
+.box-7{
+    display: flex;
+   justify-content: space-around;
+}
+.box-8{
+    display: flex;
+   justify-content: space-evenly;
+}
+.box-9{
+    display: flex;
+   justify-content: center;
+   align-items: flex-start;
+}
+.box-10 {
+    display: flex;
+    align-items: flex-start;
+}
+.box-1 {
+
+    width: 100px;
+    height: 300px;
+    margin-right: 20px;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white ;
+    font-size: 1.8em;
+} 
+.box-11 {
+    width: 100px;
+    height: 200px;
+    margin-right: 20px;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white ;
+    font-size: 1.8em;
+} 
+.box-111 {
+    width: 100px;
+    height: 400px;
+    margin-right: 20px;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white ;
+    font-size: 1.8em;
+} 
+.box-1111 {
+    width: 100px;
+    height: 450px;
+    margin-right: 20px;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white ;
+    font-size: 1.8em;
+}
+.box-gen {
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white ;
+    font-size: 2em;
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+    font-weight: 900;
+} 
+.box-main-wrap {
+    gap: 20px;
+    height: 280px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    width: 70%;
+    margin: 0 auto;
+}
+.box-height{
+    height: 500px;
+    gap: 70px;
+}
