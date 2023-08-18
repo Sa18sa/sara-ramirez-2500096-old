@@ -13,7 +13,7 @@ body {
 .wrapper {
   width: 100vw;
   height: 100vh;
-  background-color: #191c32;
+  background-color: #939ad1;
   color: #fff;
 }
 .navbar {
@@ -25,7 +25,7 @@ body {
   margin-top: -7px;
 }
 .brand span {
-  color: aqua;
+  color: rgb(88, 104, 184);
 }
 .menu {
   display: flex;
@@ -43,18 +43,18 @@ body {
 }
 
 .menu li:hover a{
-  background-color: aqua;
+  background-color: rgb(88, 104, 184);
   color: #191c32;
 }
 
 .menu .active {
-  color: aqua;
+  color: rgb(88, 104, 184);
  
 }
 
 
 .menu li a:hover {
-  color: #66E7C8;
+  color: rgb(88, 104, 184);
 }
 
 
@@ -73,12 +73,12 @@ h1 {
 }
 
 .info-content span {
-  color: aqua;
+  color: rgb(108, 39, 156);
 }
 
 .download-cv {
   padding: 10px 20px;
-  background-color: aqua;
+  background-color: rgb(132, 0, 255);
   border: none;
   border-radius: 20px;
   margin-top: 10px;
@@ -94,7 +94,7 @@ h1 {
 }
 
 .main img {
-  border:  7px solid aqua;
+  border:  7px solid rgb(157, 0, 255);
   width: 350px;
   height: 520px;
   z-index: 1;
@@ -120,20 +120,24 @@ h1 {
 .about-info h2 {
   font-size: 2em;
   color: #191c32;
+  
 }
 
 .divider {
   height: 4px;
   width: 60px;
-  background-color: aqua;
+  background-color: rgb(84, 63, 147);
   margin-top: 5px;
   margin-bottom: 2em;
 }
 
 .about p {
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
-
+.p{
+  color: rgb(0, 0, 0);
+  font-size: 2em;
+}
 .portfolio,
 .contact-section {
   width: 100vw;
@@ -192,7 +196,7 @@ h1 {
 }
 
 .card__proyect-links i {
-  font-size: 1.5em;
+  font-size: 2.5;
 }
 
 .button-content {
